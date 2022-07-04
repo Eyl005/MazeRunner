@@ -1,0 +1,11 @@
+Game File: games/game2.txt
+Level_num: 0
+Level_items: {(1, 2): Coin((1, 2))}
+Player_move: 3
+Hp: 97
+Hunger: 0
+Thirst: 0
+Inventory: {'Coin': [Coin((3, 2)), Coin((2, 2))]}
+Row: 2
+Column: 2
+Time: 5
